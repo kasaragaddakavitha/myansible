@@ -1,0 +1,23 @@
+--- 
+- mystudents:
+- name: anil 
+  ph no: 9867453626 
+  address: 
+    door no: 103 
+    street: 2
+    pincode: 500053
+
+-  name: sunil 
+   ph no: 9866754877
+   address: 
+     door no: 104
+     street: 2
+     pincode: 500053
+
+
+- name: venil 
+  ph no: 9866735463
+  address: 
+    door no: 105
+    street: 2
+    pincode: 500053
